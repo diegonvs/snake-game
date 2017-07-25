@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+body {
+    text-align:center;
+    background-color:#061123;
+    font-family: "8BITWONDERNominal";
+    color:#f3fc44;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;	
+
+}
+.footer{
+    margin:70px;
+    color:#74767a;
+    text-align: right;
+    font-family: monospace;
+    font-weight: bold;
+}
